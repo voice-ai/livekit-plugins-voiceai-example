@@ -1,0 +1,3 @@
+[submodule "livekit-plugins-voiceai"]
+	path = livekit-plugins-voiceai
+	url = https://github.com/voice-ai/livekit-plugins-voiceai
